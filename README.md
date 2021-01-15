@@ -12,7 +12,7 @@ $ composer install
 ```
 
 ## Usage
-
+First change name of example.env to .env. Add your domain name and api key then run:
 ``` php
 php bin/script.php
 ```
